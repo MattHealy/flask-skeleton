@@ -1,0 +1,8 @@
+set-environment.sh
+*.log
+*.pot
+*.pyc
+app/*.pyc
+tmp/*
+*.swp
+*.db
